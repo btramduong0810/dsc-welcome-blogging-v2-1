@@ -8,22 +8,43 @@ As a professional data scientist, you'll often have to communicate in writing. S
 
 A blog can also help you to *get* a data science job. It's a way to showcase your skills to potential employers before they decide to interview you, so it's important to realize that your blog posts may well be reviewed by potential employers when deciding whether or not to grant you an interview.
 
+Think about blogging through the following lenses:
+
+1. **Your blog is for you**. Writing a blog gives you an opportunity to solidify knowledge or gain depth of understanding. Your ability to communicate about your work, both verbally and in writing, is essential for success as a data scientist. Blogging is a great way to reflect on your work and helps you consolidate everything you've learned and decide how you want to grow next.
+
+2. **Your blog is for you peers**. At some point in the program you will find a peer's blog to be helpful or inspiring. You can be that person for someone else!
+
+3. **Your blog is for the larger community**. As you go through the course you will be googling for things and find blog posts that others have written that will be immensely helpful to you. It may not feel like it, but you already know enough to contribute back to the community. If the blog post you are writing would have helped you last week, someone else will find it useful and valuable.
+
+4. **Your blog is for potential employers**. Your blog posts can be an additional bullet point to add to your resume and a way to establish your presence and credibility. Student blogs have been picked up by Medium publications and students have even _become exempt from technical interviews_ due to knowledge they demonstrated in a blogpost!
+
 ## What to Blog About?
 
 There are seven blog posts that we'll ask you to complete. That is a graduation requirement - without the seven required blog posts, you won't be able to graduate from the program. Please feel free to write more posts, although in general a "reasonable quantity and great quality" is probably the best strategy so you can have 1-2 posts that you can point potential employers to that really show how you can write for both technical and non-technical audiences. The risk of too many posts is that employers will click onto some of the weaker ones if you didn't have the time to make them all great.
 
-Here are the seven required blog topics:
-1. Why did you decide to learn data science?
-2. Write a post on a visualization technique of your choice (line plot, histogram, heat-map, etc). How is it being used to answer analytical problems and what are it’s strengths and weaknesses?
-3. Write about a topic you are finding particularly challenging. Do it in the form of a tutorial to help another aspiring data scientist to learn that topic.
-4. Write a tutorial (with a data set and code sample) on something that we did not cover during the course that you think might be interesting to other people taking the course. It can be a topic we didn’t cover at all, or can just go deeper into a topic that we did cover.
-5. Write about your experience with model selection, model validation and hyper-parameter tuning for a data set you’ve worked with on the program. Include hints and tips that would help another data science student do a better job of model selection, validation and tuning.
-6. Pick a data science paper written in the last 18 months and rewrite it to explain it to a non-technical business stakeholder. Focus on why it’s important and why it would matter to them.
-7. Pick one of the most influential papers in data science (ask us for a list!) and rewrite it to explain it to a non-technical business stakeholder. Focus on why it’s important and why it would matter to them.
+Here are some suggested blog topics:
+* Why did you decide to learn data science?
+* Write a post on a visualization technique of your choice (line plot, histogram, heat-map, etc). How is it being used to answer analytical problems and what are it’s strengths and weaknesses?
+* Something you learned when building the Mod 1 Project. Exploratory Data Analysis, feature selection, choice of visualizations.
+* Statistical analysis and hypothesis testing (_Mod 3_).
+* Time-Series Modeling and Analysis (_Mod 4_).
+* Building and interpreting a classification model (_Mod 5_).
+* A breakdown of any of the larger end-of-Mod projects where you explain your problem and the dataset along with your process, methodology, and findings.
+* Solidify knowledge. Write about a topic you are finding particularly challenging. Do it in the form of a tutorial to help another aspiring data scientist to learn that topic.
+* Go Deeper. Write a tutorial (with a data set and code sample) on something that we did not cover during the course that you think might be interesting to other people taking the course. It can be a topic we didn’t cover at all, or can just go deeper into a topic that we did cover.
+* Pick a data science paper written in the last 18 months and rewrite it to explain it to a non-technical business stakeholder. Focus on why it’s important and why it would matter to them.
+* Pick one of the most influential papers in data science (ask us for a list!) and rewrite it to explain it to a non-technical business stakeholder. Focus on why it’s important and why it would matter to them.
 
-These posts should be written in order. The first post requires no experience in data science. The second one assumes you've completed the first couple of sections in module 1, question 5 is one you won't be ready to write about until the end of module 3 and you won't want to dig into the last couple until you're in mod 4 or even in project mode in module 5.
+## Suggestions
 
-In terms of length, there isn't a set requirement. That said, it'd be hard to do justice to most of these topics (except perhaps the first one) in under 800-1000 words. Equally, you should try to make it a posting - not a novel. If you're blowing through 3000 or 4000 words, it's going to be hard to get someone to read the post, so you might want to constrain the scope so it can be fitted into (say) 1000-3000 words (yes, 3500 words is fine if you need it!)
+#### Length
+In terms of length, there isn't a set requirement. That said, it'd be hard to do justice to most of these topics. Equally, you should try to make it a posting - not a novel. If you're blowing through 3000 or 4000 words, it's going to be hard to get someone to read the post, so you might want to constrain the scope so it can be fitted into (say) 1000-3000 words (yes, 3500 words is fine if you need it!)
+
+#### Code Snippets
+When presenting code, use code snippets instead of screenshots. This will allow others to copy and paste your code if following along with your post.
+
+#### Links
+Provide links to resources you used to help you write your post and give your readers more context.
 
 ## How to Blog
 
