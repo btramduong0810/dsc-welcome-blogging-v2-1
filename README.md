@@ -38,7 +38,7 @@ Here are some suggested blog topics:
 ## Suggestions
 
 #### Length
-In terms of length, there isn't a set requirement. That said, it'd be hard to do justice to most of these topics. Equally, you should try to make it a posting - not a novel. If you're blowing through 3000 or 4000 words, it's going to be hard to get someone to read the post, so you might want to constrain the scope so it can be fitted into (say) 1000-3000 words (yes, 3500 words is fine if you need it!)
+In terms of length, there isn't a set requirement. Strike a balance between providing a meaningful and worthwhile investigation of your topic with being concise and focused. It's a blog post -- not a novel, so you might want to constrain the scope so it can be fitted into (say) 1000-3000 words (yes, 3500 words is fine if you need it!)
 
 #### Code Snippets
 When presenting code, use code snippets instead of screenshots. This will allow others to copy and paste your code if following along with your post.
