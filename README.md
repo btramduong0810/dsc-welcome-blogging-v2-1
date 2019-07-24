@@ -20,7 +20,7 @@ Think about blogging through the following lenses:
 
 ## What to Blog About?
 
-There are seven blog posts that we'll ask you to complete. That is a graduation requirement - without the seven required blog posts, you won't be able to graduate from the program. Please feel free to write more posts, although in general a "reasonable quantity and great quality" is probably the best strategy so you can have 1-2 posts that you can point potential employers to that really show how you can write for both technical and non-technical audiences. The risk of too many posts is that employers will click onto some of the weaker ones if you didn't have the time to make them all great.
+There are seven blog posts that we'll ask you to complete. These blogs are required in order to graduate! _Note: On-campus students may have different requirements, please speak with your instructor_. Please feel free to write more posts, although in general a "reasonable quantity and great quality" is probably the best strategy so you can have 1-2 posts that you can point potential employers to that really show how you can write for both technical and non-technical audiences. The risk of too many posts is that employers will click onto some of the weaker ones if you didn't have the time to make them all great.
 
 Here are some suggested blog topics:
 * Why did you decide to learn data science?
