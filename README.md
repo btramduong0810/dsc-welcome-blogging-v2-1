@@ -33,7 +33,7 @@ Here are some suggested blog topics:
 * Solidify knowledge. Write about a topic you are finding particularly challenging. Do it in the form of a tutorial to help another aspiring data scientist to learn that topic.
 * Go Deeper. Write a tutorial (with a data set and code sample) on something that we did not cover during the course that you think might be interesting to other people taking the course. It can be a topic we didn’t cover at all, or can just go deeper into a topic that we did cover.
 * Pick a data science paper written in the last 18 months and rewrite it to explain it to a non-technical business stakeholder. Focus on why it’s important and why it would matter to them.
-* Pick one of the most influential papers in data science (ask us for a list!) and rewrite it to explain it to a non-technical business stakeholder. Focus on why it’s important and why it would matter to them.
+* Pick one of the most influential papers in the history of data science (ask us for a list!) and rewrite it to explain it to a non-technical business stakeholder. Focus on why it’s influential and why it would matter to them. 
 
 ## Suggestions
 
