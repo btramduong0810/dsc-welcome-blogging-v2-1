@@ -12,7 +12,7 @@ Think about blogging through the following lenses:
 
 1. **Your blog is for you**. Writing a blog gives you an opportunity to solidify knowledge or gain depth of understanding. Your ability to communicate about your work, both verbally and in writing, is essential for success as a data scientist. Blogging is a great way to reflect on your work and helps you consolidate everything you've learned and decide how you want to grow next.
 
-2. **Your blog is for you peers**. At some point in the program you will find a peer's blog to be helpful or inspiring. You can be that person for someone else!
+2. **Your blog is for your peers**. At some point in the program you will find a peer's blog to be helpful or inspiring. You can be that person for someone else!
 
 3. **Your blog is for the larger community**. As you go through the course you will be googling for things and find blog posts that others have written that will be immensely helpful to you. It may not feel like it, but you already know enough to contribute back to the community. If the blog post you are writing would have helped you last week, someone else will find it useful and valuable.
 
