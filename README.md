@@ -23,22 +23,33 @@ Think about blogging through the following lenses:
 There are seven blog posts that we'll ask you to complete. These blogs are required in order to graduate! _Note: On-campus students may have different requirements, please speak with your instructor_. Please feel free to write more posts, although in general a "reasonable quantity and great quality" is probably the best strategy so you can have 1-2 posts that you can point potential employers to that really show how you can write for both technical and non-technical audiences. The risk of too many posts is that employers will click onto some of the weaker ones if you didn't have the time to make them all great.
 
 Here are some suggested blog topics:
+
 * Why did you decide to learn data science?
+
 * Write a post on a visualization technique of your choice (line plot, histogram, heat-map, etc). How is it being used to answer analytical problems and what are it’s strengths and weaknesses?
-* Something you learned when building the Mod 1 Project. Exploratory Data Analysis, feature selection, choice of visualizations.
-* Statistical analysis and hypothesis testing (_Mod 3_).
-* Time-Series Modeling and Analysis (_Mod 4_).
-* Building and interpreting a classification model (_Mod 5_).
+
+* Something you learned when building the Mod 1 Project. Exploratory Data Analysis, choice of visualizations, using SQL, etc.
+
+* Statistical analysis and hypothesis testing.
+
+* Time-Series Modeling and Analysis.
+
+* Building and interpreting a classification model.
+
 * A breakdown of any of the larger end-of-Mod projects where you explain your problem and the dataset along with your process, methodology, and findings.
-* Solidify knowledge. Write about a topic you are finding particularly challenging. Do it in the form of a tutorial to help another aspiring data scientist to learn that topic.
-* Go Deeper. Write a tutorial (with a data set and code sample) on something that we did not cover during the course that you think might be interesting to other people taking the course. It can be a topic we didn’t cover at all, or can just go deeper into a topic that we did cover.
+
+* Solidify knowledge. Write about a topic you find particularly challenging. Do it in the form of a tutorial to help another aspiring data scientist to learn that topic.
+
+* Go deeper! Write a tutorial (with a data set and code sample) on something that we did not cover during the course that you think might be interesting to other people taking the course. It can be a topic we didn’t cover at all, or can just go deeper into a topic that we did cover.
+
 * Pick a data science paper written in the last 18 months and rewrite it to explain it to a non-technical business stakeholder. Focus on why it’s important and why it would matter to them.
+
 * Pick one of the most influential papers in the history of data science (ask us for a list!) and rewrite it to explain it to a non-technical business stakeholder. Focus on why it’s influential and why it would matter to them. 
 
 ## Suggestions
 
 #### Length
-In terms of length, there isn't a set requirement. Strike a balance between providing a meaningful and worthwhile investigation of your topic and being concise and focused. It's a blog post -- not a novel, so you might want to constrain the scope so it can be fitted into (say) 1000-3000 words (yes, 3500 words is fine if you need it!)
+In terms of length, there isn't a set requirement. Strike a balance between providing a meaningful and worthwhile investigation of your topic and being concise and focused. It's a blog post, not a novel, so you might want to constrain the scope so it can be fitted into (say) 1000-3000 words (yes, 3500 words is fine if you need it!).
 
 #### Code Snippets
 When presenting code, use code snippets instead of screenshots. This will allow others to copy and paste your code if following along with your post.
@@ -48,4 +59,6 @@ Provide links to resources you used to help you write your post and give your re
 
 ## How to Blog
 
-If you already have a blog for work related topics, feel free just to add your posts to that. If you have a personal blog, you might want to set up a separate "work" blog. It's not required, but do consider that employers will probably look at multiple posts from any blog you share, so if you mix personal and business postings, make sure they're equally high quality and would reflect well on you when being considered for a job. Finally, if you've never blogged before, not to worry! Pick your favorite blogging site/software and start blogging. Don't worry too much about which platform you pick - just pick something and focus on writing great content.
+If you already have a blog for work related topics, feel free just to add your posts to that. If you have a personal blog, you might want to set up a separate "work" blog. It's not required, but do consider that employers will probably look at multiple posts from any blog you share, so if you mix personal and business postings, make sure they're equally high quality and would reflect well on you when being considered for a job. 
+
+Finally, if you've never blogged before, not to worry! Pick your favorite blogging site/software and start blogging. Don't worry too much about which platform you pick - just pick something and focus on writing great content. ✨Have fun and happy blogging!✨
